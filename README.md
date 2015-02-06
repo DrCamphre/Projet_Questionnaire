@@ -1,2 +1,2 @@
 # Projet_Questionnaire
-Dossier du projet sur les systèmes d'informations pour les entreprises
+Dossier du projet sur les systèmes d'information pour les entreprises
